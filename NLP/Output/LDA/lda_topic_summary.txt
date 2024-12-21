@@ -1,0 +1,77 @@
+Document 1:
+  Topic 1: 2.80%
+  Topic 2: 2.81%
+  Topic 3: 88.79%
+  Topic 4: 2.80%
+  Topic 5: 2.80%
+  Keywords: space, ai, like, human, platforms, media, online, intelligence, people, social
+
+Document 2:
+  Topic 1: 2.80%
+  Topic 2: 2.80%
+  Topic 3: 2.81%
+  Topic 4: 88.78%
+  Topic 5: 2.80%
+  Keywords: cooking, art, food, techniques, preparing, tools, elaborate, diverse, dishes, cultural
+
+Document 3:
+  Topic 1: 2.89%
+  Topic 2: 2.89%
+  Topic 3: 88.43%
+  Topic 4: 2.89%
+  Topic 5: 2.90%
+  Keywords: space, ai, like, human, platforms, media, online, intelligence, people, social
+
+Document 4:
+  Topic 1: 88.97%
+  Topic 2: 2.78%
+  Topic 3: 2.76%
+  Topic 4: 2.75%
+  Topic 5: 2.75%
+  Keywords: sports, physical, activities, health, like, ability, team, swimming, benefits, strength
+
+Document 5:
+  Topic 1: 2.66%
+  Topic 2: 2.69%
+  Topic 3: 2.66%
+  Topic 4: 2.66%
+  Topic 5: 89.34%
+  Keywords: modern, medicine, care, individuals, healthcare, profile, timely, personalized, prevent, telemedicine
+
+Document 6:
+  Topic 1: 2.94%
+  Topic 2: 88.28%
+  Topic 3: 2.93%
+  Topic 4: 2.92%
+  Topic 5: 2.93%
+  Keywords: health, mental, public, diseases, disease, healthcare, professionals, includes, improve, wellbeing
+
+Document 7:
+  Topic 1: 2.89%
+  Topic 2: 88.45%
+  Topic 3: 2.89%
+  Topic 4: 2.88%
+  Topic 5: 2.89%
+  Keywords: health, mental, public, diseases, disease, healthcare, professionals, includes, improve, wellbeing
+
+Document 8:
+  Topic 1: 2.76%
+  Topic 2: 2.76%
+  Topic 3: 88.95%
+  Topic 4: 2.77%
+  Topic 5: 2.76%
+  Keywords: space, ai, like, human, platforms, media, online, intelligence, people, social
+
+Topic 1: sports, physical, activities, health, like, ability, team, swimming, benefits, strength
+	Document 4
+Topic 2: health, mental, public, diseases, disease, healthcare, professionals, includes, improve, wellbeing
+	Document 6
+	Document 7
+Topic 3: space, ai, like, human, platforms, media, online, intelligence, people, social
+	Document 1
+	Document 3
+	Document 8
+Topic 4: cooking, art, food, techniques, preparing, tools, elaborate, diverse, dishes, cultural
+	Document 2
+Topic 5: modern, medicine, care, individuals, healthcare, profile, timely, personalized, prevent, telemedicine
+	Document 5
